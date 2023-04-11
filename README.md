@@ -1,4 +1,4 @@
-# SDN-DTN
+# SDN-HDTN
 This program is to be deployed on a P4-programmable switch as a middlebox in a DTN network to translate between bundle protocol version 6 and version 7.
 This is a proof of concept and is not production ready; it requires significant improvements or must be finetuned for a specific application.
 
